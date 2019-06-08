@@ -35,3 +35,6 @@ func merge(l []int, r []int) []int {
 
 	return result
 }
+
+// Other implementations:
+// - https://austingwalters.com/merge-sort-in-go-golang/
